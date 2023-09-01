@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @byrcewang
-- 👀 I’m interested in applying ML on Economics studies. 
-- 🌱 I’m currently learning ML, Python/Stata/R/SQL/QGIS, Causal Inference. 
-- 💞️ I’m looking to collaborate on ML+Econometris for Causal Inference. 
+- 👀 I’m interested in applying LLM technologies to transform the world.
+- 🌱 I’m currently working on LLAMA-2 models fine-tunings. 
+- 💞️ I’m looking to collaborate on LLM research or app development teams. 
 - 📫 How to reach me: brycewang2018@gmail.com. 
 
 <!---
